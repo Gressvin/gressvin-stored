@@ -1,2 +1,2 @@
-# gressvin-ware
+# gressvin-stored
 Some trivial documents
